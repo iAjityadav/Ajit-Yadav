@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Data Analyst - Learning and Building for the Future<br><br>Hi there!<br><br>My name is Ajit Yadav and I'm an enthusiastic individual on the path to becoming a data analyst. <br>This space on GitHub serves as my digital playground to document my learning journey, showcase projects, and connect with the data analysis community.<br><br>💡 I'm interested in all things data: Data Analysis, Big Data, Cloud, Machine Learning and Data Science<br>             
+Aspiring Data Analyst - Learning and Building for the Future<br> Hi there!<br><br>My name is Ajit Yadav and I'm an enthusiastic individual on the path to becoming a data analyst. <br>This space on GitHub serves as my digital playground to document my learning journey, showcase projects, and connect with the data analysis community.<br><br>💡 I'm interested in all things data: Data Analysis, Big Data, Cloud, Machine Learning and Data Science<br>             
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
